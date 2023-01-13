@@ -3,4 +3,8 @@ print("test")
 
 # COMMAND ----------
 
+print('databricks')
+
+# COMMAND ----------
+
 
